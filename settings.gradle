@@ -1,0 +1,2 @@
+include ':testLibararyProject'
+include ':test1'
