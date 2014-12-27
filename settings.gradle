@@ -1,2 +1,2 @@
-include ':testLibararyProject'
-include ':test1'
+include ':Libarary'
+include ':app'
